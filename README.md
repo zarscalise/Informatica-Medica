@@ -2,14 +2,11 @@
 
 ![ITBA](./logo.png)
 
-## Materia
-Informática Médica – 16.22  
-Departamento de Ciencias de la Vida  
-Bioingeniería – Instituto Tecnológico de Buenos Aires (ITBA)
-
-## Alumnas
-- Zarina Cristal Scalise  
-- Camila Noemí Pereira
+## Información
+Instituto Tecnológico de Buenos Aires
+Departamento de Ciencias de la Vida 
+Bioingeniería
+16.22 - Informática Médica
 
 ## Profesores
 - Carlos Lazzarino  
@@ -17,6 +14,10 @@ Bioingeniería – Instituto Tecnológico de Buenos Aires (ITBA)
 - Eugenia Camila Berrino  
 - Melina Piacentino Castaño  
 - Auxiliar: Valentina Medina Santinon
+
+## Alumnas
+- Camila Noemí Pereira
+- Zarina Cristal Scalise  
 
 ## Fecha de entrega
 26/05/2025
@@ -29,4 +30,4 @@ Este repositorio contiene la resolución del Trabajo Práctico N°4 correspondie
 2. Consultas SQL.
 3. Manejo de versiones con Git y GitHub.
 
-Cada consulta se encuentra en su archivo correspondiente, y se ha seguido la estructura y el control de versiones solicitados por la cátedra.
+Cada consulta se encuentra en su archivo correspondiente y se ha seguido la estructura solicitada por la cátedra.
