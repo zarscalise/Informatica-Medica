@@ -1,6 +1,6 @@
 # TP4 - Bases de Datos y Manejo de Versiones
 
-![ITBA](./itba_logo.png)
+![ITBA](./logo.png)
 
 ## Materia
 Informática Médica – 16.22  
