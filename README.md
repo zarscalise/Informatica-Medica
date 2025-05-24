@@ -3,10 +3,10 @@
 ![ITBA](./logo.png)
 
 ## Información
-Instituto Tecnológico de Buenos Aires
-Departamento de Ciencias de la Vida 
-Bioingeniería
-16.22 - Informática Médica
+- Instituto Tecnológico de Buenos Aires
+- Departamento de Ciencias de la Vida
+- Bioingeniería
+- 16.22 - Informática Médica
 
 ## Profesores
 - Carlos Lazzarino  
