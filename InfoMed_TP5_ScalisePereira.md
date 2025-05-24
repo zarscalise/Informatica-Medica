@@ -1,13 +1,12 @@
 # TP4 - Bases de Datos y Manejo de Versiones
 
-## Materia
-**Informática Médica – 16.22**  
-Departamento de Ciencias de la Vida  
-Bioingeniería – Instituto Tecnológico de Buenos Aires (ITBA)
+![ITBA](./logoITBA.png)
 
-## Alumnas
-- Zarina Cristal Scalise  
-- Camila Noemí Pereira
+## Información
+- Instituto Tecnológico de Buenos Aires
+- Departamento de Ciencias de la Vida
+- Bioingeniería
+- 16.22 - Informática Médica
 
 ## Profesores
 - Carlos Lazzarino  
@@ -16,10 +15,15 @@ Bioingeniería – Instituto Tecnológico de Buenos Aires (ITBA)
 - Melina Piacentino Castaño  
 - Auxiliar: Valentina Medina Santinon
 
+## Alumnas
+- Camila Noemí Pereira
+- Zarina Cristal Scalise  
+
 ## Fecha de entrega
 26/05/2025
 
 ---
+
 
 # Parte 1: Bases de datos
 
@@ -29,21 +33,21 @@ La base de datos que plantea la consigna es una base de datos relacional, puesto
 
 ### 2. Diagrama de Entidades y Relaciones
 
-[Ver diagrama en draw.io](https://app.diagrams.net/#G13JqN0g4eW0YdOEHXOgkfrWbeo7Ayqmr_#%7B%22pageId%22%3A%225dqXmzmKBzGVJRNmNUns%22%7D)
+FOTO ACA
 
 ### 3. Modelo relacional
 
-(Completar si corresponde)
+FOTO ACA
 
 ### 4. ¿Está normalizada?
 
-(Completar con el análisis de normalización si corresponde)
+FALTA
 
 ---
 
 # Parte 2: Consultas SQL
 
-A continuación se presentan las consultas SQL junto con un bloque para agregar capturas de pantalla del resultado de cada una.
+A continuación se presentan las consultas SQL junto a capturas de pantalla del resultado de cada una.
 
 ---
 
