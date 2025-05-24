@@ -1,6 +1,6 @@
 # TP4 - Bases de Datos y Manejo de Versiones
 
-![ITBA](./logo.png)
+![ITBA](./logoITBA.png)
 
 ## Información
 - Instituto Tecnológico de Buenos Aires
